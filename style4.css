@@ -1,0 +1,20 @@
+body{
+    background-color: #000000;
+}
+.sent{
+    width: 640px;
+    height: 328px;
+    background-color: #ffffff;
+    margin: 0 auto;
+    margin-top: 160px;
+}
+.otpravka{
+    position: absolute;
+    width: 248px;
+    height: 24px;
+    Font-size: 16px;
+    Line-height: 20px;
+    margin-left: 227px;
+    margin-top: 40px;
+}
+.nearest{}
