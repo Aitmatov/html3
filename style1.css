@@ -131,6 +131,12 @@ body{
     border-radius: 8px;
     box-shadow: 0px 6px 24px rgba(0, 0, 0, 0.1);
 }
+ .vidkredit .vidopt{
+    
+    border: 1px solid #808080;
+    border-radius: 10px;
+    box-shadow: 0px 6px 24px rgba(0, 0, 0, 0.1);
+}
 .srokkredita{
     width: 200px;
     height: 48px;
@@ -180,4 +186,10 @@ body{
 }
 .kredit1{
     text-decoration: none;
+}
+.kredit1 option{
+    width: 352px;
+    height: 48px;
+    font-size: 20px;
+
 }
